@@ -1,9 +1,9 @@
-Georgia Tech Computer Science 
+Georgia Tech Computer Science
 =============
 
 # Introduction
 
-Hi friends! This is a compilation of resources for computer science students at Georgia Tech who want to learn practical CS skills not taught in class. Sometimes the real struggle of learning something new is figuring out where to learn from. This guide is meant to help you with that! 
+Hi friends! This is a compilation of resources for computer science students at Georgia Tech who want to learn practical CS skills not taught in class. Sometimes the real struggle of learning something new is figuring out where to learn from. This guide is meant to help you with that!
 
 # Contents
 - Introduction (you just read that)
@@ -34,19 +34,19 @@ Stay calm. You got this.
 
 # Github for Dummies
 ## Vocab
-- **git** 
-- **repo** 
-- **branch** 
-- **fork** 
-- **commit** 
-- **push** 
+- **git**
+- **repo**
+- **branch**
+- **fork**
+- **commit**
+- **push**
 
 ## Useful Commands
 - **git clone** This clones a repository to your own deskop.
 - **git add .** This adds any changes you've made in the current directory to the final commit.
 - **git commit -am 'message goes here'** This commits the changes you're making and also adds a message for your reference.
 - **git push** This pushes your changes to Github updating the "cloud" version on your code.
- 
+
 
 ## What's actually happening?
 The backing data structure of Github is a tree.
@@ -71,3 +71,5 @@ The backing data structure of Github is a tree.
 ## Hacker Culture
 
 # How to Get Hired
+
+Cassidy William's [_Getting a Gig_](https://github.com/cassidoo/getting-a-gig) is a great guide to preparing for and applying to internships in tech. Everything from how to cold email recruiters, to which data structures to study for technical interviews.
