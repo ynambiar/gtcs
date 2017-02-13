@@ -10,11 +10,12 @@ Hi friends! This is a compilation of resources for computer science students at 
 - [Your Attitude](#your-attitude)
 - [Github for Dummies](#github-for-dummies)
 - [Web Development](#web-devevelopment)
-- [How to Use Linux]](#how-to-use-linux)
+- [How to Use Linux](#how-to-use-linux)
 - [Functional Programming](#functional-programming)
 - [How the Internet Works](#how-the-internet-works)
 - [Landscape of CS fields](#landscape-of-cs-fields)
 - [CS Culture](#cs-culture)
+- [How to Get Hired](#how-to-get-hired)
 
 # Your Attitude
 
@@ -26,6 +27,16 @@ A few things to remember when going through the resources in this guide:
 
 
 # Github for Dummies
+## Vocab
+- **git** 
+- **repo** 
+- **branch** 
+- **fork** 
+- **commit** 
+
+## Useful Commands
+## What's actually happening?
+The backing data structure of Github is a tree.
 
 # Web Development
 ## Build Your Own Website
@@ -45,3 +56,5 @@ A few things to remember when going through the resources in this guide:
 ## Industry
 ## College/University
 ## Hacker Culture
+
+# How to Get Hired
