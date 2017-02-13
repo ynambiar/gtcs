@@ -22,11 +22,11 @@ Hi friends! This is a compilation of resources for computer science students at 
 
 A few things to remember when going through the resources in this guide:
 
-- **1.** It is hard.
-- **2.** You will figure it out.
-- **3.** When in doubt, phone a friend.
+1. It is hard.
+2. You will figure it out.
+3. When in doubt, phone a friend.
 
-#Resources
+# Resources
 
 The Internet is your best friend when it comes to finding answers to your questions. Chances are that if you're having trouble installing a package or getting some code to compile, you're not the first one. Google is always a good start and Stackoverflow.com is another great resource. If you're having trouble with a specific error, copy and paste the error into Google. If you're having trouble understanding code in general, look up an API or Google a tutorial on the language/program/package. More often than not, you're using an undefined variable or forgetting a semicolon somewhere.
 
