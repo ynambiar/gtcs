@@ -35,18 +35,19 @@ Stay calm. You got this.
 # Github for Dummies
 ## Vocab
 - **git**
-- **repo**
+- **repo** - a repository (or repo) is a project tracked by git
 - **branch**
 - **fork**
 - **commit**
 - **push**
+- **pull**
 
 ## Useful Commands
-- **git clone** This clones a repository to your own deskop.
-- **git add .** This adds any changes you've made in the current directory to the final commit.
-- **git commit -am 'message goes here'** This commits the changes you're making and also adds a message for your reference.
-- **git push** This pushes your changes to Github updating the "cloud" version on your code.
-
+- `git clone` This clones a repository to your own deskop.
+- `git add .` This adds any changes you've made in the current directory to the final commit.
+- `git commit -am 'message goes here'` This commits the changes you're making and also adds a message for your reference.
+- `git push` This pushes your changes to Github updating the "cloud" version on your code.
+- `git pull` This pulls any new changes from Github that other people may have pushed.
 
 ## What's actually happening?
 The backing data structure of Github is a tree.
