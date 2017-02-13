@@ -33,8 +33,15 @@ A few things to remember when going through the resources in this guide:
 - **branch** 
 - **fork** 
 - **commit** 
+- **push** 
 
 ## Useful Commands
+- **git clone** This clones a repository to your own deskop.
+- **git add .** This adds any changes you've made in the current directory to the final commit.
+- **git commit -am 'message goes here'** This commits the changes you're making and also adds a message for your reference.
+- **git push** This pushes your changes to Github, updating the "cloud" version on your code.
+ 
+
 ## What's actually happening?
 The backing data structure of Github is a tree.
 
